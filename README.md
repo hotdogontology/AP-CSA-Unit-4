@@ -106,6 +106,11 @@ Prints an n × n multiplication table. Each number is followed by a tab (`\t`), 
 
 Your code is automatically graded when you push to GitHub. Check the **Actions** tab to see your score. Each method is tested independently — you earn points for each method you complete correctly.
 
-## Contact
+## Honor Code
+Remember to adhere to the GSSM Academic Integrity Policy. Do not copy code from others or AI, and ensure all work is your own.
 
-For questions, contact [kevin@csplusplus.com](mailto:kevin@csplusplus.com)
+## Contact
+If you have any questions or need assistance, send me an email or come to office hours. 
+
+## Acknowledgements
+This project has been adapted from the repo generously shared by [Kevin Hare](https://csplusplus.com/).
